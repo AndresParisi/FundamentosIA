@@ -44,4 +44,4 @@ Los componentes principales para el desarrollo de la funcionalidad son:
 
 Andres Parisi - AndresParisi (github)
 
-Link del proyecto: https://github.com/AndresParisi/Reactproyectofinal
+Link del proyecto: https://github.com/AndresParisi/FundamentosIA
